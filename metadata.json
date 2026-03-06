@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FANILON'NY FAMONJENA",
+  "description": "Fampiharana fitantanana tonon-kira ho an'ny STK Fanilon'ny FAMONJENA. TSY AZO AMIDY.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
